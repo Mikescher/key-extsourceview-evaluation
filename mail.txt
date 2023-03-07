@@ -1,0 +1,21 @@
+Hallo zusammen,
+
+im Zuge meiner Masterarbeit habe ich einen Prototypen für eine veränderte Quellcodeansicht in KeY entwickelt.
+Dieser stellt zusätzlich Informationen aus der Sequenz im "Source" Fenster da.
+
+Ich suche Teilnehmer für eine kurze (30-45min), nicht-anonyme Umfrage dazu.
+Hierzu müsstest du 2 Programme, einmal mit dem neuen Prototypen, einmal nur mit der Sequenzenansicht verifizieren.
+Und danach einen Fragebogen dazu ausfüllen.
+
+Über eine Teilnahme würde ich mich freuen, die Dateien und eine Anleitung sind im Anhang.
+
+
+Viele Grüße
+Mike Schwörer
+
+
+
+
+
+
+
