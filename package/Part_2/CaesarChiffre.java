@@ -19,7 +19,7 @@ class CaesarChiffre {
       @ ensures (\forall int i; 0 <= i && i < valuesOutput.length; ( valuesInput[i] + offset <= 'Z') ==> ( valuesOutput[i] == (valuesInput[i] + offset      ) ) );
       @ ensures (\forall int i; 0 <= i && i < valuesOutput.length; ( valuesInput[i] + offset >  'Z') ==> ( valuesOutput[i] == (valuesInput[i] + offset - 26 ) ) );
       @
-      @ ensures (\forall int i; 0 <= i && i < valuesOutput.length; 'A' < valuesOutput[i] && valuesOutput[i] < 'Z');
+      @ ensures (\forall int i; 0 <= i && i < valuesOutput.length; 'A' <= valuesOutput[i] && valuesOutput[i] <= 'Z');
       @
       @ ensures \result == valuesInput.length;
       @
@@ -47,12 +47,12 @@ class CaesarChiffre {
         while (loopidx < valuesInput.length){  
             
             if (valuesInput[loopidx] <= 'Z' - offset) {
-                int tmp1 = valuesInput[loopidx] + offset;
+                int tmp1 = valuesOutput[loopidx] + offset;
                 valuesOutput[loopidx] = (char)tmp1;
 
             } else {
 
-                int tmp2 = valuesInput[loopidx] + offset - 26;
+                int tmp2 = valuesOutput[loopidx] + offset - 26;
                 valuesOutput[loopidx] = (char)tmp2;
 
             }
