@@ -9,7 +9,7 @@ The first file shall be evaluated with the new prototype, and the second with th
 
 After both parts, there are a few questions. You can use the *README.odt* document to fill in your answers and sent then send it to me at [ugxvv@student.kit.edu](mailto:ugxvv@student.kit.edu). 
 
-Please follow the instructions below:
+Please follow the instructions: *(All instructions are also included in the README.odt)*
 
 <hr><hr>
 
