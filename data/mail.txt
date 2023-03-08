@@ -1,4 +1,4 @@
-Hello everyone,
+Hello all,
 
 As a part of my Master's thesis, I have developed a prototype for an extended source code view in KeY.
 This prototype displays additional information from the sequent in the "Source" window.
