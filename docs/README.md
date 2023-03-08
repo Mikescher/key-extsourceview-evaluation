@@ -30,6 +30,16 @@ Please follow the instructions: *(All instructions are also included in the READ
  - If you encounter errors try extracting the zip file into a directory without whitespaces.
  - The *Cut* and *Instantiate* dialogs still have JavaDL input fields. Even though they can be opened by right-clicking on JML terms.
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; grid-column-gap: 1rem; grid-row-gap: 1rem;">
+ 
+   <img src="fig1.png" alt="Error message in source view" />
+  <img src="fig2.png" alt="Sourceview context menu"      />
+
+  <i>Figure 1: Error message in source view</i>
+  <i>Figure 2: Sourceview context menu</i>
+
+</div>
+
 ### Part 1:
 
 1. Launch the Key.jar from the extracted zip file
@@ -88,13 +98,4 @@ Please follow the instructions: *(All instructions are also included in the READ
 Thank you for participating in this evaluation.  
 
 Please send your answers to the questions 1 to 11 to me by [email (ugxvv@student.kit.edu)](mailto:ugxvv@student.kit.edu)  
-
-
-<img src="fig1.png" style="width: 50%"/>  
-*Figure 1: Error message in source view*
-
-&nbsp;
-
-<img src="fig2.png" style="width: 50%"/>  
-*Figure 2: Error message in source view*
 

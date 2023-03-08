@@ -47,7 +47,7 @@ class CaesarChiffre {
         while (loopidx < valuesInput.length){  
             
             if (valuesInput[loopidx] <= 'Z' - offset) {
-                int tmp1 = valuesOutput[loopidx] + offset;
+                int tmp1 = valuesInput[loopidx] + offset;
                 valuesOutput[loopidx] = (char)tmp1;
 
             } else {
