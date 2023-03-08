@@ -1,7 +1,7 @@
 
 Thank you for participating in the evaluation of the „Extended-KeY-Sourceview“ prototype.
 
-Please download the [evaluation.zip](https://github.com/Mikescher/key-extsourceview-evaluation/blob/master/package/evaluation.zip) which contains two java programs.
+Please download the [evaluation.zip](https://github.com/Mikescher/key-extsourceview-evaluation/blob/master/evaluation.zip) which contains two java programs.
 Both contain an implementation of the caesar chiffre algorithm with an accompanying JML specification.
 And both contain an error, due to which the specification cannot be proven.
 
