@@ -1,21 +1,17 @@
-Hallo zusammen,
+Hello everyone,
 
-im Zuge meiner Masterarbeit habe ich einen Prototypen für eine veränderte Quellcodeansicht in KeY entwickelt.
-Dieser stellt zusätzlich Informationen aus der Sequenz im "Source" Fenster da.
+As a part of my Master's thesis, I have developed a prototype for an extended source code view in KeY.
+This prototype displays additional information from the sequent in the "Source" window.
 
-Ich suche Teilnehmer für eine kurze (30-45min), nicht-anonyme Umfrage dazu.
-Hierzu müsstest du 2 Programme, einmal mit dem neuen Prototypen, einmal nur mit der Sequenzenansicht verifizieren.
-Und danach einen Fragebogen dazu ausfüllen.
+I am looking for participants for a brief (30-45 minutes), non-anonymous survey on this topic. 
+For this, you would need to verify two programs, one with the new prototype and one only with the sequent view. 
+Uring the evaluation you sould need to fill out a questionnaire about it.
 
-Über eine Teilnahme würde ich mich freuen, die Dateien und eine Anleitung sind im Anhang.
+I would appreciate your participation, the files and instructions can be found at https://mikescher.github.io/key-extsourceview-evaluation/.
 
+The duration of the evaluation is from 2023-03-13 until 2023-03-20.
+Please send the filled out questionaires to me ( ugxvv@student.kit.edu ) before the end date.
 
-Viele Grüße
+Best regards,
 Mike Schwörer
-
-
-
-
-
-
 
