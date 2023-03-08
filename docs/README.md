@@ -22,21 +22,26 @@ Please follow the instructions: *(All instructions are also included in the READ
 
  - This prototype modified the „Source“ windows in KeY.  
    The sequent of the current node is being displayed as JML insertions in the source code.  
-   If the sequent cannot be translated, an error is shown (see Fig. 1)
+   If the sequent cannot be translated, an error is shown (see <a href="#fig1">Fig. 1</a>)
  - Interactions can be done by right-clicking in the source window.  
-   Clicking on free space shows general interactions, and clicking on a specific insertion shows actions on this formula (see Fig. 2)
+   Clicking on free space shows general interactions, and clicking on a specific insertion shows actions on this formula (see <a href="#fig2">Fig. 2</a>)
  - To distinguish generated and original source code lines, all generated code has a light gray background.
  - When hovering over insertions, the original JML terms get highlighted with a magenta background.
  - If you encounter errors try extracting the zip file into a directory without whitespaces.
  - The *Cut* and *Instantiate* dialogs still have JavaDL input fields. Even though they can be opened by right-clicking on JML terms.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; grid-column-gap: 1rem; grid-row-gap: 1rem;">
- 
-   <img src="fig1.png" alt="Error message in source view" />
-  <img src="fig2.png" alt="Sourceview context menu"      />
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto; grid-column-gap: 1rem;">
 
-  <i>Figure 1: Error message in source view</i>
-  <i>Figure 2: Sourceview context menu</i>
+   <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto; grid-row-gap: 1rem;">
+      <img src="fig1.png" alt="Error message in source view" id="fig1" />
+      <i>Figure 1: Error message in source view</i>
+   </div>
+
+   <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto; grid-row-gap: 1rem;">
+      <img src="fig2.png" alt="Sourceview context menu"      id="fig2"/>
+      <i>Figure 2: Sourceview context menu</i>
+
+   </div>
 
 </div>
 
