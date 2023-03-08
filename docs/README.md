@@ -47,7 +47,7 @@ Please follow the instructions below:
 
  - **[2]** How much time did you need for this part?  
 
- - **[3]** Did you manage to find the problem in calcChiffre()?. What is the error, and where is it?  
+ - **[3]** Did you manage to find the problem in calcChiffre()? What is the error, and where is it?  
 
  - **[4]** The JML insertions appear in different positions. Which properties do you think determine the position of the insertions?  
 
@@ -69,7 +69,7 @@ Please follow the instructions below:
 
  - **[6]** How much time did you need for this part?  
 
- - **[7]** Did you manage to find the problem in calcChiffre()?. What is the error, and where is it?  
+ - **[7]** Did you manage to find the problem in calcChiffre()? What is the error, and where is it?  
 
  - **[8]** In the new source code view: Which elements of the UI would you like to change?  
        What did you miss in the UI?  
