@@ -1,6 +1,6 @@
 Hello all,
 
-As a part of my Master's thesis, I have developed a prototype for an extended source code view in KeY.
+As a part of my master's thesis, I have developed a prototype for an extended source code view in KeY.
 This prototype displays additional information from the sequent in the "Source" window.
 
 I am looking for participants for a brief (30-45 minutes), non-anonymous survey on this topic.

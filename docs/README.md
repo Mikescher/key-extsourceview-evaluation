@@ -27,6 +27,7 @@ Please follow the instructions: *(All instructions are also included in the READ
    Clicking on free space shows general interactions, and clicking on a specific insertion shows actions on this formula (see Fig. 2)
  - To distinguish generated and original source code lines, all generated code has a light gray background.
  - When hovering over insertions, the original JML terms get highlighted with a magenta background.
+ - If you encounter errors try extracting the zip file into a directory without whitespaces.
  - The *Cut* and *Instantiate* dialogs still have JavaDL input fields. Even though they can be opened by right-clicking on JML terms.
 
 ### Part 1:
