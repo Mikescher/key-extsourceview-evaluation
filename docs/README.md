@@ -13,6 +13,8 @@ The evaluation questions can be written in the *README.odt* file (which also con
 After both parts, there are a few questions. You can use the *README.odt* document to fill in your answers. 
 Please follow the instructions below:
 
+<hr><hr>
+
 ### Preparation
 
  - Extract the KeY.jar and the two program directories from the evaluation.zip file.
@@ -73,7 +75,7 @@ Please follow the instructions below:
 
 Thank you for participating in this evaluation.  
 
-Please send your answers to the questions 1-11 to my by [email](mailto:ugxvv@student.kit.edu) ( `ugxvv@student.kit.edu` ).  
+Please send your answers to the questions 1 to 11 to my by [email](mailto:ugxvv@student.kit.edu) ( `ugxvv@student.kit.edu` ).  
 
 
 ![Figure 1: Error message in source view](fig1.png)  
