@@ -1,3 +1,6 @@
 title:        Evaluation 'Extended-KeY-Sourceview' prototype
 
 theme: jekyll-theme-modernist
+
+github:
+  zip_url: https://github.com/Mikescher/key-extsourceview-evaluation/blob/master/package/evaluation.zip
