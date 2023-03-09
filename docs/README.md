@@ -30,14 +30,14 @@ Please follow the instructions: *(All instructions are also included in the READ
  - If you encounter errors try extracting the zip file into a directory without whitespaces.
  - The *Cut* and *Instantiate* dialogs still have JavaDL input fields. Even though they can be opened by right-clicking on JML terms.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto; grid-column-gap: 1rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto; grid-column-gap: 1rem; margin-bottom: 1rem">
 
-   <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto; grid-row-gap: 1rem;">
+   <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto 1fr; grid-row-gap: 0rem;">
       <img src="fig1.png" alt="Error message in source view" id="fig1" />
       <i>Figure 1: Error message in source view</i>
    </div>
 
-   <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto auto; grid-row-gap: 1rem;">
+   <div style="display: grid; grid-template-columns: 1fr; grid-template-rows: auto 1fr; grid-row-gap: 0rem;">
       <img src="fig2.png" alt="Sourceview context menu"      id="fig2"/>
       <i>Figure 2: Sourceview context menu</i>
 
